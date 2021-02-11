@@ -1,4 +1,4 @@
-# Piratas_JuegoDeMesa
+# Piratas
 ![PiratasJuegoMesa](https://user-images.githubusercontent.com/77111403/107606637-b3f85f00-6c04-11eb-96fa-fc53079d8edc.png)
 Juego de mesa para jugarlo entre 2 a 6 personas.
 
