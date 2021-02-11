@@ -11,8 +11,6 @@ Para jugarlo necesitas de:
 -	120 fichas blancas: Monedas que valen $1.
 -	60 fichas negras: Representen las balas.
 
-
-![IG-PiratasJuegoMesa01](https://user-images.githubusercontent.com/77111403/107672187-a245a480-6c62-11eb-8767-fc8f2df66c7e.png)
 ![IG-PiratasJuegoMesa02](https://user-images.githubusercontent.com/77111403/107672202-a5409500-6c62-11eb-8e45-46953a355858.png)
 ![IG-PiratasJuegoMesa03](https://user-images.githubusercontent.com/77111403/107672210-a83b8580-6c62-11eb-98a0-86c3593107d1.png)
 
