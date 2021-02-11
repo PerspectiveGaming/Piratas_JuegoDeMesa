@@ -10,6 +10,7 @@ Para jugarlo necesitas de:
 -	90 fichas Rojas: Monedas que valen $2.
 -	120 fichas blancas: Monedas que valen $1.
 -	60 fichas negras: Representen las balas.
+
 Reglas generales:
 •	Existirá un banco que tendrá todos los barcos, monedas y balas.
 •	Todos los jugadores empiezan con $10 en monedas (2 rojas y 6 blancas).
@@ -30,16 +31,19 @@ Robo o ataque:
 •	Cada bala representa un dado en el lanzamiento. La suma de sus caras representa el botín que se quitará del oponente.
 •	Un ataque normal puede ser de 1 a 2 balas por barco.
 Nota: Si el jugador posee un barco y 2 balas, significa que en el ataque será con 2 balas (2 balas en un barco). Si el jugador posee 2 barcos y 2 balas, significa que en el ataque será con 4 balas (2 balas en cada barco). Si el jugador posee 3 barcos y 2 balas, significa que en el ataque tendrá 6 balas. Las balas gastadas solo serán según el tipo de ataque que elija, en el caso del último ejemplo solo serán 2 balas gastadas del total que tenga el jugador y no 6.
+
 •	Un ataque grande consta de gastar 5 balas para realizar un lanzamiento solo con 3 dados por barco.
 •	Si un jugador ataca a otro ya no podrá lanzar los dados para ganar más balas, tesoros o barcos, tampoco podrá realizar compras ni ventas.
 •	Para hundir un barco directamente, se necesita gastar 3 balas para realizar 3 lanzamientos por barco. Se lanzan los 5 dados y el resultado debe ser un póker (4 dados iguales), el ataque termina cuando se acaben los lanzamientos. En cada lanzamiento se lanzan los 5 dados.
 •	El ataque se puede dividir a 2 o más jugadores. (Si el jugador que ataca tiene 2 balas, puede dirigir su ataque con 1 bala a diferentes jugadores). 
+
 Compra:
 •	Solo se puede comprar en el turno del jugador.
 •	Un barco cuesta $24 en monedas.
 •	Una bala cuesta $8 en monedas. Se pueden comprar cuántas balas se deseen.
 •	Un jugador solo puede comprar un barco en toda la partida. 
 •	Cada compra gasta el turno completo del jugador.
+
 Venta:
 •	Solo se pueden vender barcos.
 •	1 barco se vende por $10 en monedas.
